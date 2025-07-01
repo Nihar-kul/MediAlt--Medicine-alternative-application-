@@ -1,0 +1,17 @@
+Project WD/
+│
+├── about.css            # Styles specific to the About page
+├── about.html           # HTML structure for the About page
+├── about.js             # JavaScript functionalities for the About page
+│
+├── homepage.css         # Styles specific to the Home page
+├── homepage.html        # HTML structure for the Home page
+│
+├── project.js           # Shared or specific JavaScript for project-level functionality
+│
+├── searchpage.css       # Styles specific to the Search page
+├── searchpage.html      # HTML structure for the Search page
+│
+├── server.js            # Backend logic/server setup (Node.js likely)
+│
+└── WD logo.png          # Image/logo used in the project
